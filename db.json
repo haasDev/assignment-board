@@ -1,0 +1,12 @@
+{
+  "youngMen": [
+    {"id": 1, "name": "Eli Bergie", "assignment": "bring bread"},
+    {"id": 2, "name": "Ian Wall", "assignment": "bring water"},
+    {"id": 3, "name": "Jackson Recchia", "assignment": "bless sacrament"},
+    {"id": 4, "name": "Jacob Shephard", "assignment": "bless sacrament"},
+    {"id": 5, "name": "Isaac Shephard", "assignment": "pass sacrament"},
+    {"id": 6, "name": "Marquis Jackson", "assignment": "pass sacrament"},
+    {"id": 7, "name": "Drew Olson", "assignment": "pass sacrament"},
+    {"id": 8, "name": "Cardale Heatherspoon", "assignment": "pass sacrament"}
+  ]
+}
