@@ -8647,12 +8647,7 @@
 		_elm_lang$html$Html$table,
 		{
 			ctor: '::',
-			_0: _elm_lang$html$Html_Attributes$style(
-				{
-					ctor: '::',
-					_0: {ctor: '_Tuple2', _0: 'border', _1: '1px solid'},
-					_1: {ctor: '[]'}
-				}),
+			_0: _elm_lang$html$Html_Attributes$class('table-striped'),
 			_1: {ctor: '[]'}
 		},
 		{

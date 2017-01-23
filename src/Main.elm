@@ -18,12 +18,12 @@ main =
 
 view : Html msg
 view =
-    table [ style [ ( "border", "1px solid" ) ] ]
+    table [ class "table-striped" ]
         [ thead [] [ tr [] [ text "YM Assignments" ] ]
         , tbody []
             [ tr []
-                [ th [ style [ ( "border", "1px solid" ) ] ] [ text "name" ]
-                , th [ style [ ( "border", "1px solid" ) ] ] [ text "assignment" ]
+                [ th [] [ text "name" ]
+                , th [] [ text "assignment" ]
                 ]
             , tr []
                 [ td [] [ text "Eli" ]
